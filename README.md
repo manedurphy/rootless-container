@@ -42,7 +42,7 @@ sudo chroot /home/ubuntu/alpinefs /bin/sh
 ls
 
 # Output
-bin    etc    lib    mnt    proc   run    srv    tmp    var		dev    home   media  opt    root   sbin   sys    usr
+bin    etc    lib    mnt    proc   run    srv    tmp    var	dev    home   media  opt    root   sbin   sys    usr
 ```
 
 - This is a good start, but right now we are running our container as the host's root
