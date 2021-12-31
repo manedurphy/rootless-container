@@ -1,4 +1,12 @@
+<!-- omit in toc -->
 # Rootless Container
+
+<!-- omit in toc -->
+## Table of Contents
+- [Purpose](#purpose)
+- [Linux Commands](#linux-commands)
+- [Golang Container](#golang-container)
+- [Sources](#sources)
 
 ## Purpose
 
